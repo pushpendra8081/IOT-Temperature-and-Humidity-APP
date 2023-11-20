@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IOT temp &amp; humidity</string>
+    <string name="temperature">Temperature :</string>
+    <string name="_0">0</string>
+    <string name="humidity">Humidity :</string>
+    <string name="_str0">0</string>
+</resources>

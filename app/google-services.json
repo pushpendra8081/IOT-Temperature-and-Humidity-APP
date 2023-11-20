@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192947333442",
+    "firebase_url": "https://dht11-ffe35-default-rtdb.firebaseio.com",
+    "project_id": "dht11-ffe35",
+    "storage_bucket": "dht11-ffe35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192947333442:android:83bc6fa1b4c516d25140db",
+        "android_client_info": {
+          "package_name": "com.example.iottemphumidity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192947333442-qj0js82fcvhbeojchnsmkq251fdpm2kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NotIDlIW3LsNRaqZlgqJODXs5bFznwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192947333442-qj0js82fcvhbeojchnsmkq251fdpm2kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
